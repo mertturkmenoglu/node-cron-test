@@ -6,10 +6,15 @@
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": ["Node.js", "Cron-job", "example"],
+  "keywords": [
+    "Node.js",
+    "Cron-job",
+    "example"
+  ],
   "author": "Mert TURKMENOGLU",
   "license": "MIT",
   "dependencies": {
+    "axios": "^0.21.1",
     "node-cron": "^3.0.0"
   }
 }
